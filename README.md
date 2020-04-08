@@ -1,5 +1,5 @@
 ### Game Project ###
 
-[sun](sun.png)
-[sprite baby](sprite_babay.png)
+![sun](sun.png)
+![sprite baby](sprite_babay.png)
 
